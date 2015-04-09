@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # PURPOSE: to generate a molecular system containing randomly positioned BGLC's around a protein.
-# SYNTAX: rancor_atomdist.py prot.cor bglc1.cor prot_bglcs.cor
+# SYNTAX: rancor_atomdist.py prot.cor bglc1.cor bglcs_gene.cor
 # Note: prot.cor is the coordinate file of protein solute
 #       bglc1.cor is the coordinate of a BGLC unit
 #       BGLC refers to beta-glucopyranose
