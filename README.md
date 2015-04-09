@@ -1,5 +1,5 @@
 # gene-molsys
-Python script to generate a cubic molecular system that contains a homogenously distributed molecular species surrounding a protein solute.
+Python scripts to generate a cubic molecular system that contains a homogenously distributed molecular species surrounding a protein solute.
 
 For example:
 
