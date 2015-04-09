@@ -14,7 +14,7 @@ from scipy.spatial import cKDTree
 
 
 # define the number of BGLC's
-bglc_num = 28
+bglc_num = 20
 
 
 # the radius of the smallest sphere that can accommodate a BGLC
