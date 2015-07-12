@@ -1,8 +1,8 @@
 # MD_simulations_build_system
 
-Purpose: to generate a cubic molecular system that contains a homogenously distributed molecular species surrounding a protein solute.
+Tool: Python.
 
-Python scripts.
+Purpose: to generate a cubic molecular system that contains a homogenously distributed molecular species surrounding a protein solute.
 
 For example:
 
