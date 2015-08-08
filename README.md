@@ -1,4 +1,4 @@
-# Molecular_Dynamics_System_Build
+# molecular_dynamics_system_build
 
 Tool: Python.
 
